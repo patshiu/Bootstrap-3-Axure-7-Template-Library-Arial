@@ -1,5 +1,7 @@
-Bootstrap3 Template Library for Axure7 — ARIAL VERSION
+Bootstrap3 Template Library for Axure7 
 ====================================
+ARIAL VERSION
+--------------
 
 A Bootstrap 3 library for Axure 7. Widgets reflect the interactive behaviors of the original bootstrap components. Includes a widget style library that corresponds to component classes, apply them using the Base Style dropdown in the widget style panel. 
 
