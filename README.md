@@ -9,17 +9,17 @@ This is the **ARIAL** version. The Helvetica Neue version is available here: <a 
 
 ####Tips
 #####Making sure your project exports with the bootstrap fontstack 
-<img src="https://dl-web.dropbox.com/get/public/Bootstrap3%20Axure7%20rplib/export_font_mappings_bootstrap_fontstack.png?_subject_uid=3535944&w=AADnvaqKnMzdN9idXjs1ZBcEa922IcCZgFTho6QLHw0JdA">
-1. Add a new font mapping setting.
-2. Set source font to "Helvetica Neue" or "Arial", depending on what font you used in your project. 
-3. Set destination "Font family" to <code>"Helvetica Neue", Arial, sans-serif</code>.
+<img src="https://dl.dropboxusercontent.com/u/3535944/Bootstrap3%20Axure7%20rplib/export_font_mappings_bootstrap_fontstack.png">
+1.  Add a new font mapping setting.
+2.  Set source font to "Helvetica Neue" or "Arial", depending on what font you used in your project. 
+3.  Set destination "Font family" to <code>"Helvetica Neue", Arial, sans-serif</code>.
 
 #####Use Widget Styles Library
 Many of the CSS classes are reflected in the Widget Styles library. You can format bodies of text or widgets with them. Apply widget styles by using the Base Style dropdown in the widget style panel.
-<img src="https://dl-web.dropbox.com/get/public/Bootstrap3%20Axure7%20rplib/Apply_widget_style.png?_subject_uid=3535944&w=AADvxrCpVSLb0CneUwFKCiA-CJAy1sI4BZqBAw_bM33aow"> 
+<img src="https://dl.dropboxusercontent.com/u/3535944/Bootstrap3%20Axure7%20rplib/Apply_widget_style.png"> 
 
 To check out the widget styles' settings, use the widget style editor.
-<img src="https://dl-web.dropbox.com/get/public/Bootstrap3%20Axure7%20rplib/use_widget_styles_bootstrap3_axure7_rplib.png?_subject_uid=3535944&w=AADYmWp-IwGONSaqe6Cwv39LSlO8kK8ecO02v0lnVpoIUA">
+<img src="https://dl.dropboxusercontent.com/u/3535944/Bootstrap3%20Axure7%20rplib/use_widget_styles_bootstrap3_axure7_rplib.png">
 
 
 ####Work-in-Progress: What's in the next version? 
@@ -29,4 +29,4 @@ To check out the widget styles' settings, use the widget style editor.
 #####Next-next version
 * Sliders, tables and whatever other bibitybopityboos. 
 
-<a href="https://tinyletter.com/patshiu">**Get notified when an updated version is available »**</a>
+<a href="https://tinyletter.com/patshiu"><b>Get notified when an updated version is available »</b></a>
