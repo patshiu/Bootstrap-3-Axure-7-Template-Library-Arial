@@ -16,12 +16,15 @@ This is the **ARIAL** version. The Helvetica Neue version is available here: <a 
 </ol>
 <img src="https://dl.dropboxusercontent.com/u/3535944/Bootstrap3%20Axure7%20rplib/export_font_mappings_bootstrap_fontstack.png">
 
+
+
 #####Use Widget Styles Library
 Many of the CSS classes are reflected in the Widget Styles library. You can format bodies of text or widgets with them. Apply widget styles by using the Base Style dropdown in the widget style panel.
 <img src="https://dl.dropboxusercontent.com/u/3535944/Bootstrap3%20Axure7%20rplib/Apply_widget_style.png"> 
 
 To check out the widget styles' settings, use the widget style editor.
 <img src="https://dl.dropboxusercontent.com/u/3535944/Bootstrap3%20Axure7%20rplib/use_widget_styles_bootstrap3_axure7_rplib.png">
+
 
 
 ####Work-in-Progress: What's in the next version? 
