@@ -9,9 +9,10 @@ This is the **ARIAL** version. The Helvetica Neue version is available here: <a 
 
 ####Tips
 #####Making sure your project exports with the bootstrap fontstack 
-1.Add a new font mapping setting.
-2.Set source font to "Helvetica Neue" or "Arial", depending on what font you used in your project. 
-3.Set destination "Font family" to <code>"Helvetica Neue", Arial, sans-serif</code>.
+<ol>
+	<li>Add a new font mapping setting.</li>
+	<li>Set source font to "Helvetica Neue" or "Arial", depending on what font you used in your project.</li>
+	<li>Set destination "Font family" to <code>"Helvetica Neue", Arial, sans-serif</code>.</li>
 <img src="https://dl.dropboxusercontent.com/u/3535944/Bootstrap3%20Axure7%20rplib/export_font_mappings_bootstrap_fontstack.png">
 
 #####Use Widget Styles Library
