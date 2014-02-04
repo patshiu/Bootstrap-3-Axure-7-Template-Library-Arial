@@ -34,4 +34,4 @@ To check out the widget styles' settings, use the widget style editor.
 #####Next-next version
 * Sliders, tables and whatever other bibitybopityboos. 
 
-####<a href="https://tinyletter.com/patshiu"><b>Get notified when an updated version is available »</b></a>####
+####<a href="https://tinyletter.com/patshiu"><b>Get notified when this library gets updated »</b></a>####
